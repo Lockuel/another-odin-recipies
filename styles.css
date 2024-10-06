@@ -1,0 +1,23 @@
+.heads{
+    text-decoration:underline;
+    font-weight:bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#buttonA, #buttonB, #buttonC{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+}
+#buttonA{
+    background-color:#660000;
+}
+#buttonB{
+    background-color:#20164e;
+}
+#buttonC{
+    background-color:#46320c;
+}
+a, a:hover, a:visited, a:active{
+    color:inherit;
+    text-decoration:none;
+}
